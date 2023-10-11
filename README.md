@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Pinku Deb Nath</h1>
 <!-- <h3 align="center">A Software Engineer interested in AI and Quantum Computing</h3> -->
 <img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
-<p align="left"><img src="https://komarev.com/ghpvc/?username=prantoran&label=Profile%20views&color=0e75b6&style=flat" alt="prantoran" height="30" width="180" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=prantoran&label=Profile%20views&color=0e75b6&style=flat" alt="prantoran" height="25" width="150" /></p>
 
 <!--🔹👨‍💻 I’m currently working as a Data Science Intern at **[Innomatics Research Labs](http://www.innomatics.in)**
 
