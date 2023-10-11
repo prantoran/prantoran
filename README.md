@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <div>
 <p align="left">
 <a href="https://www.linkedin.com/in/prantoran" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &emsp;
-<a href="https://www.instagram.com/prantoran" target="_blank"><img alt="Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &emsp;
+<a href="https://www.instagram.com/boiraagee" target="_blank"><img alt="Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &emsp;
 <a href="mailto:prantoran@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a> &emsp;
 <!-- <a href="https://api.whatsapp.com/send/?phone=%2B919860934650&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></a> -->
 </p>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## `Projects:`
 
-### [MediaPipe WebApp using WASM]([https://github.com/shanuhalli/Project-Resume-Classification](https://github.com/prantoran/mediapipe))
+### [MediaPipe WebApp using WASM](https://github.com/prantoran/mediapipe)
 
 ## `Important Links:`
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - Innomatics Internship : [Letter-of-Recommendation](https://drive.google.com/file/d/1ChU4aSoM737Eh9Cmp9kMvEaHArwv0wPs/view?usp=sharing)
 - Ai Variant Internship : [Internship-Certificate](https://drive.google.com/file/d/1Vci5-s4mh8cC47ksPQyu4zUbfC1gymyc/view?usp=sharing)
 -->
-- My Resume : [Resume-Pinku-Deb-Nath](https://drive.google.com/file/d/1G99UuorrDlEMugA0zKbV818qFyLT8Umc/view?usp=sharing)
+- My Resume : [Resume-Pinku-Deb-Nath](https://docs.google.com/document/d/1qf5WVuNsgJ9HtAFbCJIy5nzu78pHhpJiPk6-l45VU-w/edit?usp=sharing)
 
 ## `My Github Status:`
 <details>
