@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://github.com/prantoran"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prantoran&langs_count=10&title_color=f97316&text_color=000000&icon_color=6366f1&bg_color=ffffff&locale=en&custom_title=Most%20Used%20Languages" alt="Most Used Languages" /></a></p>
 
-<p align="center"><a href="http://www.github.com/prantoran"><img src="https://github-readme-stats.vercel.app/api?username=prantoran&show_icons=true&locale=en" alt="prantoran's GitHub Stats" /></a>
-<a href="http://www.github.com/prantoran"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prantoran&show_icons=true&locale=en" /></a></p>
+<p align="center"><a href="http://www.github.com/prantoran"><img src="https://github-readme-stats.vercel.app/api?username=prantoran&show_icons=true&locale=en#gh-dark-mode-only" alt="prantoran's GitHub Stats" /></a>
+<a href="http://www.github.com/prantoran"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prantoran&show_icons=true&locale=en#gh-dark-mode-only" /></a></p>
