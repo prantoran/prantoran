@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - Innomatics Internship : [Letter-of-Recommendation](https://drive.google.com/file/d/1ChU4aSoM737Eh9Cmp9kMvEaHArwv0wPs/view?usp=sharing)
 - Ai Variant Internship : [Internship-Certificate](https://drive.google.com/file/d/1Vci5-s4mh8cC47ksPQyu4zUbfC1gymyc/view?usp=sharing)
 -->
-- My Resume : [Resume-Pinku-Deb-Nath](https://docs.google.com/document/d/1qf5WVuNsgJ9HtAFbCJIy5nzu78pHhpJiPk6-l45VU-w/edit?usp=sharing)
+- My portfolio : [prantoran.github.io](https://prantoran.github.io)
 
 ## `My Github Status:`
 <details>
